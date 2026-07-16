@@ -1,0 +1,1 @@
+var e=`/assets/true-image-20220913120727887-YlpHLbVA.png`;export{e as t};
